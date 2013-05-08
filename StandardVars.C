@@ -6,6 +6,5 @@
   double ve = 263*km/s;
   double Md = 100*GeV;
   
-  Md = 10 * GeV;
-  
+    
 }
